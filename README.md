@@ -10,7 +10,7 @@ I'm a passionate web developer with a focus on Java and the Spring Boot framewor
 * ✉️  You can contact me at [vishnumm.2248@gmail.com](mailto:vishnumm.2248@gmail.com)
 * 🧠  I'm learning Spring Boot, Spring Security, Angular, Kubernetes
 * 🤝  I'm open to collaborating on Spring Boot projects
-* ⚡  Java is the simplest language that mankind has ever seen.
+* ⚡  Self-taught Java developer
 
 <a href="https://www.github.com/vishnu-MM" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vishnu-MM?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
