@@ -7,7 +7,7 @@ Web Developer
 I'm a passionate web developer with a focus on Java and the Spring Boot framework. 💻 I love crafting elegant solutions to complex problems and enjoy diving into the world of code. Explore my repositories to see my journey in the world of web development! 🚀 #JavaDeveloper #SpringBootEnthusiast #CodeLover
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [vishnumm.2248@gmail.com](mailto:vishnumm.2248@gmail.com)
+* ✉️  You can contact me at [vishnumm.dev@gmail.com](mailto:vishnumm.dev@gmail.com)
 * 🧠  I'm learning Spring Boot, Spring Security, Angular, Kubernetes
 * 🤝  I'm open to collaborating on Spring Boot projects
 * ⚡  Self-taught Java developer
